@@ -3,7 +3,7 @@ authors = ["simon"]
 language = "kor"
 multilingual = true
 src = "src"
-title = "리눅스 여행"
+title = "리눅스 모험"
 
 [output.html]
 additional-css = ["font.css"]
